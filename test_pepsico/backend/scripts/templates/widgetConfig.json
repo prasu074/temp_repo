@@ -1,0 +1,24 @@
+{
+    "cType": "extension",
+    "chartType": "extension",
+    "wcType": "extension",
+    "disabled": false,
+    "isExtension": true,
+    "widget_type": [
+        "static"
+    ],
+    "label": "test_pepsico",
+    "description": "testing pepsico",
+    "pluginType": "test_pepsico",
+    "selector": "app-plugin-test",
+    "settings": {
+        "chart": {
+            "display_menu_image": "extension"
+        },
+        "config_tabs": {
+            "general": true,
+            "chartProp": true,
+            "tools": true
+        }
+    }
+}

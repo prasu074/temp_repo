@@ -1,0 +1,9 @@
+{
+  "plugin_name": "test_pepsico",
+  "plugin_type": "widget",
+  "vcs-url": "<git url here>",
+  "branch": "master",
+  "environment_variables": {
+  },
+  "version": "1.0"
+}
